@@ -1,1 +1,1 @@
-ngay dau tien hoc DE tren M1
+ngay 2 set up docker + postgreSQL
