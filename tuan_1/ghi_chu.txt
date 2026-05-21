@@ -1,2 +1,3 @@
 ngay 1 git set up
 ngay 2 set up docker + postgreSQL
+ day 3 do python exercise
