@@ -1,4 +1,7 @@
 ngay 1 git set up
 ngay 2 set up docker + postgreSQL
  day 3 do python exercise
+<<<<<<< HEAD
 day 4 practice with sql
+=======
+>>>>>>> c8f1bdbb820d0c34cf3f16c7f43e178f459cdd24
